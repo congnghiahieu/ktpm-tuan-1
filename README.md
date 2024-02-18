@@ -115,7 +115,7 @@ vncserver -geometry 1920x1080 :1
 
 #### B2: Cài đặt VNC Client
 
-- Sử dụng VNC Client. Hướng dẫn này sẽ sử dụng [VNC Viewer](https://www.realvnc.com/en/connect/download/viewer/) và chạy trên Linux
+- Sử dụng VNC Client. Hướng dẫn này sẽ sử dụng [VNC Viewer](https://www.realvnc.com/en/connect/download/viewer/) và chạy trên [KDE](https://kde.org)
 
 ![VNC Viewer Demo](./img/vnc-viewer.png)
 
@@ -236,7 +236,7 @@ vncserver -geometry 1920x1080 :1
 <!---->
 <!-- #### B2: Cài đặt VNC Client -->
 <!---->
-<!-- - Sử dụng VNC Client. Hướng dẫn này sẽ sử dụng [VNC Viewer](https://www.realvnc.com/en/connect/download/viewer/) và chạy trên Linux -->
+<!-- - Sử dụng VNC Client. Hướng dẫn này sẽ sử dụng [VNC Viewer](https://www.realvnc.com/en/connect/download/viewer/) và chạy trên [KDE](https://kde.org) -->
 <!---->
 <!-- ![VNC Viewer Demo](./img/vnc-viewer.png) -->
 <!---->
@@ -321,7 +321,7 @@ vncserver -geometry 1920x1080 :1
 
 #### B2: Cài đặt VNC Client
 
-- Sử dụng VNC Client. Hướng dẫn này sẽ sử dụng [VNC Viewer](https://www.realvnc.com/en/connect/download/viewer/) và chạy trên Linux
+- Sử dụng VNC Client. Hướng dẫn này sẽ sử dụng [VNC Viewer](https://www.realvnc.com/en/connect/download/viewer/) và chạy trên [KDE](https://kde.org)
 
 ![VNC Viewer Demo](./img/vnc-viewer.png)
 
